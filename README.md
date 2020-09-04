@@ -1,3 +1,3 @@
 # Kutuphane
 
-Sqlite kullanılarak python ile kütüpphane uygulaması
+Sqlite kullanılarak python ile kütüphane uygulaması
